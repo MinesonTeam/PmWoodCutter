@@ -1,0 +1,15 @@
+name: PmWoodCutter
+version: '${version}'
+main: kz.hxncus.mc.pmwoodcutter.PmWoodCutter
+api-version: '1.13'
+authors: [Hxncus]
+commands:
+  pmwoodcutter:
+    aliases:
+      - pmwc
+      - pmwdc
+depend:
+  - WorldEdit
+  - WorldGuard
+  - Vault
+
